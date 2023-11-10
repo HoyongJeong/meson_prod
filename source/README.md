@@ -12,8 +12,6 @@
   <p align="center">
     Meson Production by Proton Beam on Graphite Target
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
   </p>
 </div>
 
