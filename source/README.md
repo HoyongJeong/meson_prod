@@ -61,4 +61,13 @@ make -j
 
 <!-- USAGE -->
 ## Usage
+
+### Execution
 Basically, `./meson_prod -h` shows you the help message.
+
+### Example Output files
+In `source/example_outputs`, there are two `.root` files.
+`ftfp_bert_1M.root` file is an output where the reference physics list is FTFP_BERT and the number of protons on target is 1M.
+`qgsp_bert_1M.root` file has the same condition, except that the QGSP_BERT physics list is used.
+
+
