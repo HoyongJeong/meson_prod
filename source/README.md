@@ -44,7 +44,7 @@ The development was inspired by millicharged particles experiment at LANL.
 ## Installation
 
 ### Prerequisites
-I suppose you already have `GEANT4` installed on your computer. And CERN ROOT is required to see the result file.
+I suppose you already have `GEANT4` installed on your computer. And `CERN ROOT` is required to see the result file.
 
 ### Build
 ```sh
