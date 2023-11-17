@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This `GEANT4` simulation counts mesons produced when an 800 MeV proton beam hits a graphite target.
+This [`GEANT4`](https://geant4.web.cern.ch/) simulation counts mesons produced when an 800 MeV proton beam hits a graphite target.
 The development was inspired by the millicharged particles experiment at LANL.
 
 The simulation assumes an 800 MeV proton beam with ideal emittance. The cylindrical carbon target is located in the origin. Once any kind of meson particle is produced, its initial state is recorded and the particle track is killed immediately. The benefit of this method is that it can reduce simulation time. But currently, this simulation cannot consider secondary mesons that can be produced by first mesons.
