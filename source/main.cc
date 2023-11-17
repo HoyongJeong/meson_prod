@@ -36,7 +36,6 @@ int main(int argc, char** argv)
 	const char* optDic = "bghm:"; // Option dictionary
 	int option;
 	char* macro;
-	char* config;
 	while ( (option = getopt(argc, argv, optDic)) != -1 ) // -1 means getopt() parses all options.
 	{
 		switch ( option )
