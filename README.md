@@ -10,7 +10,7 @@
   <h3 align="center">meson_prod</h3>
 
   <p align="center">
-    Meson Production by Proton Beam on Graphite Target
+    Meson Production by Proton Beam on Target
     <br />
   </p>
 </div>
@@ -70,5 +70,8 @@ Basically, `./meson_prod -h` shows you the help message.
 In `source/example_outputs`, there are two `.root` files.
 `ftfp_bert_1M.root` file is an output where the reference physics list is FTFP_BERT and the number of protons on target is 1M.
 `qgsp_bert_1M.root` file has the same condition, except that the QGSP_BERT physics list is used.
+
+### Configuration
+Function under development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
