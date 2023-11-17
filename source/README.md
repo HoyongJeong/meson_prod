@@ -46,7 +46,7 @@ The simulation assumes an 800 MeV proton beam with ideal emittance. The cylindri
 ## Installation
 
 ### Prerequisites
-I suppose you already have `GEANT4` installed on your computer. And `CERN ROOT` is required to see the result file.
+I suppose you already have [`GEANT4`](https://geant4.web.cern.ch/) installed on your computer. And [`CERN ROOT`](https://root.cern/) is required to see the result file.
 
 ### Build
 ```sh
