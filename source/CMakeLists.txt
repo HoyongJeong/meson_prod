@@ -48,7 +48,6 @@ target_link_libraries(meson_prod ${Geant4_LIBRARIES})
 # it relies on these scripts being in the current working directory.
 #------------------------------------------------------------------------------#
 set(MESON_PROD_SCRIPTS
-	README
 	init_vis.mac
 	vis.mac
 )
